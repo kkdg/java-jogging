@@ -1,7 +1,7 @@
 
 class Hi2 {
 
-	public static void main(Number[] args) {
+	public static void main(String[] args) {
 		System.out.println("Test..");
 	}
 }
